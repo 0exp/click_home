@@ -1,1 +1,1 @@
-# clicker_home
+# click_home
