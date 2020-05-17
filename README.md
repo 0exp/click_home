@@ -1,6 +1,8 @@
 # click_home &middot; [![Gem Version](https://badge.fury.io/rb/click_home.svg)](https://badge.fury.io/rb/click_home) [![Build Status](https://travis-ci.org/0exp/click_home.svg?branch=master)](https://travis-ci.org/0exp/click_home)
 
-Ruby Database Driver for [ClickHouse](https://clickhouse.tech/) OLAP database management system.
+Ruby database driver for [ClickHouse](https://clickhouse.tech/) OLAP database management system.
+
+---
 
 ## Installation
 
