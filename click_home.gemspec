@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.email   = ['iamdaiver@gmail.com']
 
   spec.summary     = 'ClickHome - ClickHouse Ruby Driver'
-  spec.description = 'ClickHome - ClickHouse Ruby Driver'
+  spec.description = 'Ruby database driver for ClickHouse OLAP database management system.'
   spec.homepage    = 'https://github.com/0exp/click_home'
   spec.license     = 'MIT'
 
