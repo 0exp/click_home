@@ -3,7 +3,7 @@
 require_relative 'lib/click_home/version'
 
 Gem::Specification.new do |spec|
-  spec.required_ruby_version = Gem::Requirement.new('>= 2.4.0')
+  spec.required_ruby_version = Gem::Requirement.new('>= 2.7')
 
   spec.name    = 'click_home'
   spec.version = ClickHome::VERSION
@@ -29,7 +29,8 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency 'bundler'
   spec.add_development_dependency 'rake'
-  spec.add_development_dependency 'rspec', '~> 3.9.0'
-  spec.add_development_dependency 'armitage-rubocop', '~> 0.83.0'
-  spec.add_development_dependency 'simplecov', '~> 0.18.5'
+  spec.add_development_dependency 'pry'
+  spec.add_development_dependency 'rspec', '~> 3.10'
+  spec.add_development_dependency 'armitage-rubocop', '~> 1.7'
+  spec.add_development_dependency 'simplecov', '~> 0.20'
 end
